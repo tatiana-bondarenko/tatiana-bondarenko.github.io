@@ -93,7 +93,9 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
+          sudo sed -i 's|http://azure.archive.ubuntu.com/ubuntu|http://archive.ubuntu.com/ubuntu|g' /etc/apt/sources.list.d/ubuntu.sources
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
