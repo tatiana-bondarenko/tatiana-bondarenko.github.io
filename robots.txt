@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tatiana-bondarenko.github.io/tanya.bondarenko.github.io/sitemap.xml
+Sitemap: https://tatiana-bondarenko.github.io/sitemap.xml
