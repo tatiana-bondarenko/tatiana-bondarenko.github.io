@@ -4,13 +4,16 @@ cv:
   email: tbondarenko@fas.harvard.edu
   location: Cambridge, MA
   image: ""
-
+  summary: '"Tatiana" and "Tanya" are two versions of the same name in Russian (like "Robert" and "Bob"). I usually go by Tanya, but I use my full name for publications: Tatiana Igorevna Bondarenko. "Igorevna" is a <a href="https://en.wikipedia.org/wiki/Patronymic#Russian">patronymic</a>, it is part of my first name. If for whatever reason you would like to address me very formally, you can call me Tatiana Igorevna.'
 
   address:
-    street: 318 Boylston Hall 
+    street: 318 Boylston Hall (department) or 209 at 90 Mt Auburn St (lab)
     city: Cambridge
     region: Massachusetts
     postalCode: 02138
     countryCode: US
+    
+    
+
 
  
