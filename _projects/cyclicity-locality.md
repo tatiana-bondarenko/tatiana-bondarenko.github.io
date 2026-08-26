@@ -2,7 +2,7 @@
 layout: page
 title: Cyclicity and Locality 
 description: A short description of the project
-img: assets/img/my-project-image.jpg
+img: assets/img/head.jpg
 importance: 5
 category: research
 ---

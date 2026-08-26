@@ -2,7 +2,7 @@
 layout: page
 title: Triviality and Clausal Selection 
 description: A short description of the project
-img: assets/img/my-project-image.jpg
+img: assets/img/cat.jpg
 importance: 4
 category: research
 ---

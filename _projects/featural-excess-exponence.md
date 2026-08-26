@@ -2,7 +2,7 @@
 layout: page
 title: Featural Excess and Exponence
 description: A short description of the project
-img: assets/img/my-project-image.jpg
+img: assets/img/churchxela.jpg
 importance: 6
 category: research
 ---

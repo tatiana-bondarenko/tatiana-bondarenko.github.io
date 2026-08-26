@@ -2,7 +2,7 @@
 layout: page
 title: Discontinuity of Noun Phrases
 description: A short description of the project
-img: assets/img/my-project-image.jpg
+img: assets/img/dom1.jpg
 importance: 7
 category: research
 ---
