@@ -7,35 +7,160 @@ nav: true
 nav_order: 3
 ---
 
-### **2022-2023**
-
-* Fall 2022. *Field Methods* (Ling 117r, graduate class)
-* Spring 2023. *Syntactic Theory II* (Ling 212, graduate class)
-* Spring 2023. (together with G. Chierchia) *Syntax-Semantics Interface: Events and Argument Structure* (Ling 205r, graduate seminar)
+### **Instructor at Harvard**
 
 
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>The Alabama Language: towards documentation and revitalization (Ling 177).</span>
+      <span>Spring 2025</span>
+    </div>
+  </li>
+</ul>
 
-### **Previous teaching experience (Teacher's Assistant)**
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>The Science of Language: An Introduction (Ling 101). Undergraduate Class.</span>
+      <span>Fall 2023, 2024</span>
+    </div>
+  </li>
+</ul>
 
-* **Syntax**: Introduction to Syntax (CreteLing)
-* **Semantics**: Advanced Semantics (MIT, graduate), Introduction to formal semantics (NYI)
-* **Field Methods**: Field Methods in Linguistics (MIT, undergraduate)
-* **Intro**: Introduction to Linguistics (MIT, undergraduate)
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Syntax-Semantics Interface (Ling 205r). Graduate Class. Topic: <em>Events &amp; Argument Structure</em>.</span>
+      <span>Spring 2023</span>
+    </div>
+  </li>
+</ul>
 
-Back in 2013 -- 2014, I also taught *Introduction to Generative Syntax* for schoolchildren at Lomonosov Moscow State University together with Andrey Zavgorodny.
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Syntactic Theory I (Ling 112). Undergraduate Class.</span>
+      <span>Fall 2026</span>
+    </div>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Advanced Syntax (Ling 212). Graduate Class.</span>
+      <span>Spring 2023, 2024, 2025</span>
+    </div>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Field Methods in Linguistics (Ling 117r). Graduate Class.</span>
+      <span>Fall 2022, 2023, 2024, 2026</span>
+    </div>
+  </li>
+</ul>
 
 
-<!---### Syntax
-* TA for *Introduction to Syntax* at the 2nd Crete Summer School of Linguistics (Instructor: Sabine Iatridou), 2018.
-* Instructor (together with Andrey Zavgorodny) for *Introduction to the generative syntax*, seminar for schoolchildren at the Department of Structural and Applied Linguistics, Lomonosov Moscow State University, Sept. 2013 – May 2014.
+### **Instructor at the University of Vienna**
 
-### Semantics
-* TA for *Advanced Semantics* (24.973, graduate class) at MIT (Instructor: Martin Hackl). 2021.
-* TA for *Introduction to formal semantics* at the  NY-St. Petersburg Institute of Linguistics, Cognition and Culture (Instructor: Sergei Tatevosov), 2016.
-* TA for *Introduction to formal semantics* at the NY-St. Petersburg Institute of Linguistics, Cognition and Culture (Instructors: Philippe Schlenker & Sergei Tatevosov), 2015.
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Syntax and Semantics of Clausal Embedding. Graduate Class.</span>
+      <span>June 2025</span>
+    </div>
+  </li>
+</ul>
 
-### Fieldwork
-* TA for *Field Methods in Linguistics* at MIT (24.909, undergraduate class, Language: Wolof, Instructor: Adam Albright), Fall 2018.
+### **Instructor at the Alabama-Coushatta Tribe**
+[teaching together with other members of the Alabama Project]
 
-### Intro
-*  TA for *Introduction to Linguistics* (24.900, undergraduate class) at MIT (Instructor: David Pesetsky).--->
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Language Workshops at the Alabama-Coushatta reservation in Texas.</span>
+      <span>June 2024, 2025, 2026</span>
+    </div>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Alabama Learning Hour on Zoom.</span>
+      <span>Fall 2025&mdash;Ongoing</span>
+    </div>
+  </li>
+</ul>
+
+### **Teacher’s Assistant**
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Advanced Semantics. A graduate course at MIT. Instructor: Martin Hackl (MIT).</span>
+      <span>Spring 2021</span>
+    </div>
+  </li>
+</ul>
+
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Introduction to Linguistics. An undergraduate course at MIT. Instructor: David Pesetsky (MIT).</span>
+      <span>Spring 2020</span>
+    </div>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Field Methods in Linguistics. An undergraduate course at MIT. Instructor: Adam Albright (MIT).</span>
+      <span>Fall 2018</span>
+    </div>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Introduction to Syntax. A course at the 2nd Crete Summer School of Linguistics. Instructor: Sabine Iatridou (MIT).</span>
+      <span>July 2018</span>
+    </div>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Introduction to formal Semantics. A course at NY-St. Petersburg Institute of Linguistics, Cognition and Culture (NYI). Instructor: Sergei Tatevosov (Lomonosov Moscow State University).</span>
+      <span>July 2016</span>
+    </div>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>Introduction to formal Semantics. A course at NY-St. Petersburg Institute of Linguistics, Cognition and Culture (NYI). Instructors: Philippe Schlenker (Institut Jean-Nicod &amp; Ecole Normale Supérieure &amp; NYU) &amp; Sergei Tatevosov (Lomonosov Moscow State University).</span>
+      <span>July 2015</span>
+    </div>
+  </li>
+</ul>
+
+### **Instructor at Lomonosov Moscow State University**
+
+<ul>
+  <li>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <span>[with Andrey Zavgorodny] Introduction to the generative syntax. Seminar for schoolchildren at the Department of Structural and Applied Linguistics, Lomonosov Moscow State University. Spring 2014. </span>
+      <span>Spring 2021</span>
+    </div>
+  </li>
+</ul>
